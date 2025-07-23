@@ -32,7 +32,7 @@ this app is entirely built using **design-first thinking and structured no-code 
 
 ## 📱 Preview
 
-[🔗 Click here](https://www.linkedin.com/feed/update/urn:li:activity:7347977844632756224/)
+[🔗Watch the demo ](https://www.linkedin.com/feed/update/urn:li:activity:7347977844632756224/)
 
 ---
 
