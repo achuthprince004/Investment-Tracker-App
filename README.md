@@ -1,4 +1,7 @@
 # 📈 Investment Tracker App
+<p align="center">
+<img width="1501" height="1126" alt="Component 1" src="https://github.com/user-attachments/assets/632947e9-034e-401f-8629-b0d5601bc165" />
+</p>
 
 From entering asset details to visualizing portfolio performance…  
 From managing stock entries/exits to real-time profit & loss tracking…  
